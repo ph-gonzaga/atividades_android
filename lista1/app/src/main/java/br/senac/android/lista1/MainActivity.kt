@@ -18,5 +18,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, exercicio1::class.java)
             startActivity(intent)
         }
+
+        binding.btnEx2.setOnClickListener {
+            val intent = Intent(this, exercicio2::class.java)
+            startActivity(intent)
+        }
     }
 }
