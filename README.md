@@ -1,5 +1,9 @@
 # atividades_android
 
+## Exercício 3
+- Modifique o exercício anterior, fazendo com que o estado dos checkboxes permita ou não a digitação de valores nas caixas de texto
+- O botão deverá validar se um campo está vazio caso seu checkbox respectivo esteja selecionado
+
 ## Exercício 2
 - Modifique o exercício anterior, fazendo com que o estado dos checkboxes permita ou não a digitação de valores nas caixas de texto
 - O botão deverá validar se um campo está vazio caso seu checkbox respectivo esteja selecionado
