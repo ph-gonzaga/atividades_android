@@ -1,5 +1,9 @@
 # atividades_android
 
+## Exercício 4
+- Crie uma tela com dois spinners. O primeiro deverá ter as opções “Filme”, “Música”, “Livro” e “Jogo”
+- O segundo deverá ter opções de gêneros adequadas para a seleção do primeiro spinner (se “Música” estiver selecionada no primeiro spinner, só gêneros musicais poderão aparecer no segundo e assim por diante)
+
 ## Exercício 3
 - Modifique o exercício anterior, fazendo com que o estado dos checkboxes permita ou não a digitação de valores nas caixas de texto
 - O botão deverá validar se um campo está vazio caso seu checkbox respectivo esteja selecionado
