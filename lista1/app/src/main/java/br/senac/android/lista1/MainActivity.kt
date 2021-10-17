@@ -1,11 +1,22 @@
 package br.senac.android.lista1
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.senac.android.lista1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+    lateinit var binding: ActivityMainBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+
+
+        binding.btnEx1.setOnClickListener {
+            val intent = Intent(this, exercicio1::class.java)
+            startActivity(intent)
+        }
     }
 }
