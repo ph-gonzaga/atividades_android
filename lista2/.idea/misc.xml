@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_bottom_nav.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/activity_celsius_fragment.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main_ex1.xml" value="0.16296296296296298" />
         <entry key="app/src/main/res/layout/activity_main_ex2.xml" value="0.165" />
@@ -11,6 +12,7 @@
         <entry key="app/src/main/res/layout/fragment_fahrenheit.xml" value="0.1109375" />
         <entry key="app/src/main/res/layout/fragment_kevin.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/fragment_produto.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottomnav.xml" value="0.1" />
       </map>
     </option>
   </component>

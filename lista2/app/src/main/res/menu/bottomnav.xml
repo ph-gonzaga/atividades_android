@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuCtoF"
+        android:title="Celsius -> F" />
+    <item
+        android:id="@+id/menuFtoK"
+        android:title="Fahrenheit -> K" />
+    <item
+        android:id="@+id/menuKtoC"
+        android:title="Kevin -> C" />
+</menu>
