@@ -3,15 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/study/android-kotlin/atividades_android/lista1/app/src/main/res/layout/activity_exercicio5.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_exercicio1.xml" value="0.25878421597399776" />
         <entry key="app/src/main/res/layout/activity_exercicio2.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/activity_exercicio3.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_exercicio4.xml" value="0.28934720560472227" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/activity_exercicio8.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lista1">
         <activity
+            android:name=".exercicio5"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".exercicio8"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".exercicio4"
             android:exported="true" />
         <activity
